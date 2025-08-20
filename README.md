@@ -23,6 +23,6 @@ O objetivo é explorar as principais tags semânticas e estruturais da linguagem
 O arquivo principal é o `index.html`, onde cada tag foi aplicada com exemplos e comentários explicativos para facilitar o entendimento.
 
 ## ✨ Autor
-Feito com 💜 por **Raycka Castro**  
+Feito por **Raycka Castro**  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
